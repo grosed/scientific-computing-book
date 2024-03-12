@@ -1,0 +1,21 @@
+format: jb-book
+root: introduction/introduction
+options:  # The options key will be applied to all chapters, but not sub-sections
+  numbered: True
+chapters:
+  - file: characteristics/overview
+    sections:
+    - file: characteristics/lifecycle
+  - file: algorithms/overview
+  - file: introductory-python/overview
+  - file: computational-complexity/overview
+  - file: data-structures/overview
+  - file: introductory-r/overview
+  - file: introductory-c++/overview
+  - file: tools/overview
+  - file: parallel-computation/overview
+  - file: tutorials/overview
+    sections:
+    - file: tutorials/tutorial-1/overview
+  - file: bibliography/bibliography  
+  
