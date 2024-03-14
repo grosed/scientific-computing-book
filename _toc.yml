@@ -8,14 +8,67 @@ chapters:
     - file: characteristics/lifecycle
   - file: algorithms/overview
   - file: introductory-python/overview
+    sections:
+    - file: introductory-python/variables-expressions-statements.ipynb
+    - file: introductory-python/lists.ipynb
+    - file: introductory-python/flow-control-checkpoint.ipynb
+    - file: introductory-python/functions.ipynb
+    - file: introductory-python/python-utilities.ipynb
+    - file: introductory-python/tuples.ipynb
+    - file: introductory-python/dictionaries.ipynb
+    - file: introductory-python/more-data-structures.ipynb
+    - file: introductory-python/python-class-introduction.ipynb
+    - file: introductory-python/file-io.ipynb
+    - file: introductory-python/functional-techniques.ipynb
+    - file: introductory-python/python-summary.ipynb
+    - file: introductory-python/further-exercises.ipynb
+    - file: introductory-python/further-reading.ipynb
   - file: computational-complexity/overview
   - file: data-structures/overview
-  - file: introductory-r/overview
-  - file: introductory-c++/overview
   - file: tools/overview
+    sections:
+    - file: tools/debugging
+    - file: tools/profiling
+    - file: tools/testing
+    - file: tools/version-control
+    - file: tools/packaging
+  - file: python-tools/overview
+    sections:
+    - file: python-tools/system-management
+    - file: python-tools/environment-management
+    - file: python-tools/testing
+    - file: python-tools/packaging
+  - file: introductory-r/overview
+  - file: r-tools/overview
+    sections:
+    - file: r-tools/system-management
+    - file: r-tools/environment-management
+    - file: r-tools/testing
+    - file: r-tools/packaging
+  - file: introductory-c++/overview
+  - file: c++-tools/overview
+  - file: c++-integration/overview
+    sections:
+    - file: c++-integration/python-and-c++
+    - file: c++-integration/r-and-c++
   - file: parallel-computation/overview
+    sections:
+    - file: parallel-computation/models
+    - file: parallel-computation/shared-environments
   - file: tutorials/overview
     sections:
     - file: tutorials/tutorial-1/overview
   - file: bibliography/bibliography  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
